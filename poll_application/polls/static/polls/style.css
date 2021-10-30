@@ -1,0 +1,10 @@
+/* ADDED as part of Writing your first Django app, part 6 */
+
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
+
